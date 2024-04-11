@@ -18,18 +18,20 @@ Se si vuole aggiungere una citazione:
 markdownCopy code
 > cita così il testo
 
-Se vuoi evidenziare il codice, si può  usare il simbolo backtick 'codice qui'
+Se vuoi evidenziare il codice, si può  usare il simbolo backtick codice qui'
 
 Per blocchi di codice multiriga si usano tre backticks:
 '''java
 uè
 '''
 ##Altre tag particolari
+
+
 1)Image	![alt text](image.jpg) per immettere un immagine nel testo
 2)Table	| Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
-| Paragraph | Text |
+| Paragraph | Text |         per creare tabelle
 3)Fenced Code Block	```
 {
   "firstName": "John",
