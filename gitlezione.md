@@ -39,7 +39,7 @@ Esempio:
 csharpCopy code
 git add nome_del_file
 git add .
-3. git commit: Questo comando viene utilizzato per registrare le modifiche nel repository. È necessario fornire un messaggio di commit che descriva le modifiche apportate.
+3. git commit -m "nome filegit": Questo comando viene utilizzato per registrare le modifiche nel repository. È necessario fornire un messaggio di commit che descriva le modifiche apportate.
 Esempio:
 sqlCopy code
 git commit -m "Messaggio di commit descrittivo"
