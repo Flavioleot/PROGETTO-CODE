@@ -68,3 +68,4 @@ Esempio:
 cssCopy code
 git log --oneline --graph --decorate --all
 Questi sono solo alcuni dei comandi più comuni e utilizzati in Git. Ci sono molte altre funzionalità e opzioni disponibili per ciascun comando, quindi è utile consultare la documentazione ufficiale di Git per saperne di più.
+Le cartelle dentro le cartelle, devono essere aperte trascinandole su visula studio code, NON APRIRLE SU GIT.
