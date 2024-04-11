@@ -24,4 +24,31 @@ Per blocchi di codice multiriga si usano tre backticks:
 '''java
 uè
 '''
+##Altre tag particolari
+1)Image	![alt text](image.jpg) per immettere un immagine nel testo
+2)Table	| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+3)Fenced Code Block	```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+4)Footnote	Here's a sentence with a footnote. [^1]
 
+[^1]: This is the footnote.
+Heading ID	### My Great Heading {#custom-id}
+5)Definition List	term
+: definition
+6)Strikethrough	~~The world is flat.~~
+7)Task List	- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+8)Emoji
+(see also Copying and Pasting Emoji)	That is so funny! :joy:
+9)Highlight	I need to highlight these ==very important words==.
+10)Subscript	H~2~O
+11)Superscript	X^2^
