@@ -47,5 +47,9 @@ Ecco una lista di comandi base di GIT funzione:
 - git remote add nome_remoto url_remoto: Collega un repository remoto.
 - git push nome_remoto nome_ramo: Carica un ramo su un repository remoto.
 - git pull nome_remoto nome_ramo: Scarica e fonde un ramo da un repository remoto.
-- git remote rename origin nuovo-nome: Rinomina il repo da origin a nuovo-nome.
-
+- git remote rename origin nuovo-nome: Rinomina il repo da origin a nuovo-nome. *ALTRI COMANDI MOLTO UTILI*
+- git clone url_repository: Clona un repository Git esistente nella tua directory locale.
+- git fetch: Recupera i riferimenti dai repository remoti senza effettuare il merge.
+- git diff: Mostra le modifiche tra l'area di staging e l'ultimo commit.
+- git stash: Mette da parte temporaneamente le modifiche non commesse.
+- git tag nome_tag: Crea un tag per un commit specifico.
