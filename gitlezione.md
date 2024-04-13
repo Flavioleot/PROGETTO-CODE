@@ -6,16 +6,16 @@ Tra le sue funzioni possiamo trovare:
 1) la creazione di repository: ovvero delle librerie digitali che contengono un singolo progetto( es. codice di un gioco javascript)
 1) ogni volta che si modifica un progetto è possibile tenere traccia di tutte le modifiche, cosa è stato modificato e  da chi.
 2) È possibile vedere tutte le versioni precedenti delle parti modificate, grazie alla funzione snapshot.
-3) Possibilità di creare "branch" di codice, ovvero parti del codice principale modificabili senza intaccare il codice principale. sviluppare una nuova funzionalità isolata dal ramo principale (solitamente chiamato "master")
+3) Possibilità di creare "branch" di codice, ovvero parti del codice principale modificabili senza intaccare il codice principale. Sviluppare una nuova funzionalità isolata dal ramo principale (solitamente chiamato "master")
 git branch <nome_ramiificazione>
 git checkout <nome_ramificazione>
 Quando hai completato il lavoro sulla nuova funzionalità, puoi unire la tua ramificazione al ramo principale con:
-git checkout master
+git checkout master(branch di default, detta anche main)
 git merge <nome_ramificazione>
 Le cartelle dentro le cartelle, devono essere aperte trascinandole su visul studio code, NON APRIRLE SU GIT.
 Per aggiungere i file, mettere il link che segue https://github.com/Flavioleot/progettocode.git
  Il prompt di windows è diverso da quello del mac!
-Ecco una lista di comandi base di GIT funzione:
+Ecco una lista di comandi base di GIT divisi per funzione:
 *CONFIGURAZIONE*
 - git config --global user.name "Tuo Nome": Imposta il nome dell'utente.
 - git config --global user.email "tua@email.com": Imposta l'indirizzo email dell'utente.
