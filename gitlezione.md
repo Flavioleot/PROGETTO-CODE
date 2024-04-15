@@ -58,3 +58,8 @@ Ecco una lista di comandi base di GIT divisi per funzione:
 - git mergetool: per iniziare uno strumento per il merge e la risoluzione dei conflitti.
 - git reset nomefile: toglie il file dalla zona di staging
 - git reset --hard HASH-nomecommit: resetta la repository al commit specificato, eliminando quelli successivi 
+  *COMANDI PER LAVORARE SU FILE IN REMOTO*
+  - git remote -v: visualizza gli URL dei repository remoti collegati.
+  - git fetch origin: recupera i cambiamenti del repository remoto origin.
+  - git push origin nomebranch: carica un branch nel repostiroy remoto origin.
+  - git pull origin nomebranch: scarica i cambiamenti del repository remoto origin e li unisce al ramo corrente.
