@@ -53,3 +53,8 @@ Ecco una lista di comandi base di GIT divisi per funzione:
 - git diff: Mostra le modifiche tra l'area di staging e l'ultimo commit.
 - git stash: Mette da parte temporaneamente le modifiche non commesse.
 - git tag nome_tag: Crea un tag per un commit specifico.
+*COMANDI PER RISOLVERE I CONFLITTI*
+- git diff nomebranch1..nome branch2: fa vedere le differenze tra i due rami
+- git mergetool: per iniziare uno strumento per il merge e la risoluzione dei conflitti.
+- git reset nomefile: toglie il file dalla zona di staging
+- git reset --hard HASH-nomecommit: resetta la repository al commit specificato, eliminando quelli successivi 
