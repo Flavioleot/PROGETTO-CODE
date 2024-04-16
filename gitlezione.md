@@ -32,6 +32,7 @@ Ecco una lista di comandi base di GIT divisi per funzione:
 - git commit -m "Messaggio del commit": Esegue un commit con un messaggio descrittivo.
 - git commit -a -m "Messaggio del commit": Aggiunge automaticamente e committa tutti i file modificati.
 - git commit --amend: Modifica l'ultimo commit.
+- git cherry-pick codicecommit: prendi un commit e lo sposti in un altro
  *COMANDI PER GESTIRE IL REPOSITORY DELLO STATO*
 - git status:
 - git log:
