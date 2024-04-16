@@ -46,3 +46,4 @@ obiettivo oggi: ripasso e sistema bene le lezioni su git e markdown.
 
 Cerca e aggiungi nuovi comandi git fatti oggi 16 aprile.
  Oggi si parlerà di javascript e con altri linguaggi di formattazione, tipo html.
+ Nel documento index si possono trovare le informazioni sul sito, ogni tag ha un suo significato, scopo e definizione.
