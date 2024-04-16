@@ -44,4 +44,5 @@ git checkout "nome branch" è per spostarsi tra le varie branch
 Risistemare appunti git e markdown, rendila bella nonostante le difficoltà artistiche.
 obiettivo oggi: ripasso e sistema bene le lezioni su git e markdown.
 
-Per 
+Cerca e aggiungi nuovi comandi git fatti oggi 16 aprile.
+ Oggi si parlerà di javascript e con altri linguaggi di formattazione, tipo html.
