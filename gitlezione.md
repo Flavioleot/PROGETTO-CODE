@@ -34,8 +34,8 @@ Ecco una lista di comandi base di GIT divisi per funzione:
 - git commit --amend: Modifica l'ultimo commit.
 - git cherry-pick codicecommit: prendi un commit e lo sposti in un altro
  *COMANDI PER GESTIRE IL REPOSITORY DELLO STATO*
-- git status:
-- git log:
+- git status: fa vedere quanti fai sono stati caricati e quali in attesa di caricamento
+- git log: fa vedere tutti i commit, chi ci ha lavorato e quando
 - git log --online
 - git log --graph --online --all
  *COMANDI PER GESTIRE IL REPOSITORY DEL BRANCHING* 
